@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://sinchon-coin-karaoke-note.ishikyujin.space/sitemap.xml
+Sitemap: https://sinchon-coin-karaoke-note.ishikyujin.space/sitemap-pages.xml
